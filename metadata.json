@@ -1,0 +1,5 @@
+{
+  "name": "Vehicle Log Book",
+  "description": "A minimalist vehicle mileage tracker with trip calculations and history.",
+  "requestFramePermissions": []
+}
